@@ -1,0 +1,45 @@
+package data;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelReader {
+	static FileInputStream fis=null;
+	
+	public FileInputStream getFleInputStream(){
+		String filePath=System.getProperty("user.dir")+"\\src\\test\\java\\data\\UserData.xlsx";
+		File srcFile=new File(filePath);
+		try {
+			fis=new FileInputStream(srcFile);
+		} catch (FileNotFoundException e) {
+			System.out.println("file not found ....."+e.getMessage());
+			System.exit(0);
+		}
+		return fis;
+	}
+	public Object[][] getExcelData() throws IOException{
+		fis=getFleInputStream();
+		XSSFWorkbook work=new XSSFWorkbook(fis);
+		XSSFSheet sheet=work.getSheetAt(0);
+		int totalNumberOfRows=(sheet.getLastRowNum()+1);
+		int totalNumberOfCols=4;
+		
+		String[][] arrayOfExcelData=new String[totalNumberOfRows][totalNumberOfCols];
+		for (int i = 0; i <totalNumberOfRows; i++) {
+			for(int j=0;j<totalNumberOfCols;j++){
+				XSSFRow row=sheet.getRow(i);
+				arrayOfExcelData[i][j]=row.getCell(j).toString();
+			}
+			
+		}
+		work.close();
+		return arrayOfExcelData;
+	}
+
+}
