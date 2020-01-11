@@ -13,10 +13,10 @@ public class UserRegistrationTestDDTPropertiesFile extends TestBase{
 	UserRegistrationPage registerObject;
 	LoginPage loginObject;
 	
-	String fname=TestProperties.loadProperties().getProperty("firstname");
-	String lname=TestProperties.loadProperties().getProperty("lastname");
-	String email=TestProperties.loadProperties().getProperty("email");
-	String password=TestProperties.loadProperties().getProperty("password");
+	String fname=TestProperties.userData.getProperty("firstname");
+	String lname=TestProperties.userData.getProperty("lastname");
+	String email=TestProperties.userData.getProperty("email");
+	String password=TestProperties.userData.getProperty("password");
 
 
 	

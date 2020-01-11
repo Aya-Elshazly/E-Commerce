@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.remote.CapabilityType;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -52,6 +53,20 @@ public class TestBase {
 		else if(browserName.equalsIgnoreCase("firefox")){
 			System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/drivers/geckodriver.exe");
 			driver=new FirefoxDriver(firefoxOption());
+		}
+		//headless browser testing
+		else if(browserName.equalsIgnoreCase("headless")){
+			System.setProperty("phantomjs.binary.path", System.getProperty("user.dir")+"/drivers/phantomjs.exe");
+			driver=new PhantomJSDriver();
+		}
+		//chrome headless
+		else if(browserName.equalsIgnoreCase("chrome-headless")){
+			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/drivers/chromedriver.exe");
+			ChromeOptions options=new ChromeOptions();
+			options.addArguments("--window-size=1400,800");
+			options.addArguments("--headless");
+			driver=new ChromeDriver(options);
+			
 		}
 		driver.manage().window().maximize();
 		driver.navigate().to("https://demo.nopcommerce.com/");

@@ -1,5 +1,9 @@
 package tests;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -13,6 +17,8 @@ public class UserRegistrationTest extends TestBase{
 	LoginPage loginObject;
 	
 	@Test(priority=1)
+	@Severity(SeverityLevel.CRITICAL)
+	@Description("user registration test case")
 	public void userCanRegisterSucessfull() throws InterruptedException{
 		homeObject=new HomePage(driver);
 		homeObject.openRegistrationPage();

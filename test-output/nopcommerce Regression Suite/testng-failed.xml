@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [nopcommerce Regression Suite]">
-  <test thread-count="5" name="Regression Test(failed)">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [nopcommerce Regression Suite]" parallel="tests">
+  <test thread-count="2" name="firefox Regression Test(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="tests.UserRegistrationTest">
+      <class name="tests.UserRegistrationParallelTest">
         <methods>
-          <include name="startDriver"/>
-          <include name="stopDriver"/>
+          <include name="tearDown"/>
           <include name="userCanRegisterSucessfull"/>
         </methods>
-      </class> <!-- tests.UserRegistrationTest -->
+      </class> <!-- tests.UserRegistrationParallelTest -->
     </classes>
-  </test> <!-- Regression Test(failed) -->
+  </test> <!-- firefox Regression Test(failed) -->
+  <test thread-count="2" name="chrome Regression Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.UserRegistrationParallelTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="userCanRegisterSucessfull"/>
+        </methods>
+      </class> <!-- tests.UserRegistrationParallelTest -->
+    </classes>
+  </test> <!-- chrome Regression Test(failed) -->
 </suite> <!-- Failed suite [nopcommerce Regression Suite] -->
