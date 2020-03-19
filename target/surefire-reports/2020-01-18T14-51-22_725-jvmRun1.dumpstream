@@ -1,0 +1,678 @@
+# Created at 2020-01-18T14:51:35.254
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created at 2020-01-18T14:51:35.540
+Unexpected IOException with stream: [
+
+# Created at 2020-01-18T14:51:35.565
+Unexpected IOException with stream: 1
+
+# Created at 2020-01-18T14:51:35.575
+Unexpected IOException with stream: 5
+
+# Created at 2020-01-18T14:51:35.585
+Unexpected IOException with stream: 7
+
+# Created at 2020-01-18T14:51:35.593
+Unexpected IOException with stream: 9
+
+# Created at 2020-01-18T14:51:35.599
+Unexpected IOException with stream: 3
+
+# Created at 2020-01-18T14:51:35.605
+Unexpected IOException with stream: 4
+
+# Created at 2020-01-18T14:51:35.612
+Unexpected IOException with stream: 4
+
+# Created at 2020-01-18T14:51:35.618
+Unexpected IOException with stream: 6
+
+# Created at 2020-01-18T14:51:35.625
+Unexpected IOException with stream: 9
+
+# Created at 2020-01-18T14:51:35.631
+Unexpected IOException with stream: 5
+
+# Created at 2020-01-18T14:51:35.637
+Unexpected IOException with stream: .
+
+# Created at 2020-01-18T14:51:35.645
+Unexpected IOException with stream: 5
+
+# Created at 2020-01-18T14:51:35.651
+Unexpected IOException with stream: 3
+
+# Created at 2020-01-18T14:51:35.658
+Unexpected IOException with stream: 7
+
+# Created at 2020-01-18T14:51:35.665
+Unexpected IOException with stream: ]
+
+# Created at 2020-01-18T14:51:35.671
+Unexpected IOException with stream: [
+
+# Created at 2020-01-18T14:51:35.678
+Unexpected IOException with stream: W
+
+# Created at 2020-01-18T14:51:35.685
+Unexpected IOException with stream: A
+
+# Created at 2020-01-18T14:51:35.692
+Unexpected IOException with stream: R
+
+# Created at 2020-01-18T14:51:35.698
+Unexpected IOException with stream: N
+
+# Created at 2020-01-18T14:51:35.704
+Unexpected IOException with stream: I
+
+# Created at 2020-01-18T14:51:35.711
+Unexpected IOException with stream: N
+
+# Created at 2020-01-18T14:51:35.718
+Unexpected IOException with stream: G
+
+# Created at 2020-01-18T14:51:35.726
+Unexpected IOException with stream: ]
+
+# Created at 2020-01-18T14:51:35.733
+Unexpected IOException with stream: :
+
+# Created at 2020-01-18T14:51:35.740
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:35.747
+Unexpected IOException with stream: T
+
+# Created at 2020-01-18T14:51:35.753
+Unexpected IOException with stream: i
+
+# Created at 2020-01-18T14:51:35.760
+Unexpected IOException with stream: m
+
+# Created at 2020-01-18T14:51:35.767
+Unexpected IOException with stream: e
+
+# Created at 2020-01-18T14:51:35.774
+Unexpected IOException with stream: d
+
+# Created at 2020-01-18T14:51:35.781
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:35.788
+Unexpected IOException with stream: o
+
+# Created at 2020-01-18T14:51:35.795
+Unexpected IOException with stream: u
+
+# Created at 2020-01-18T14:51:35.802
+Unexpected IOException with stream: t
+
+# Created at 2020-01-18T14:51:35.810
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:35.817
+Unexpected IOException with stream: c
+
+# Created at 2020-01-18T14:51:35.825
+Unexpected IOException with stream: o
+
+# Created at 2020-01-18T14:51:35.834
+Unexpected IOException with stream: n
+
+# Created at 2020-01-18T14:51:35.841
+Unexpected IOException with stream: n
+
+# Created at 2020-01-18T14:51:35.848
+Unexpected IOException with stream: e
+
+# Created at 2020-01-18T14:51:35.856
+Unexpected IOException with stream: c
+
+# Created at 2020-01-18T14:51:35.863
+Unexpected IOException with stream: t
+
+# Created at 2020-01-18T14:51:35.870
+Unexpected IOException with stream: i
+
+# Created at 2020-01-18T14:51:35.877
+Unexpected IOException with stream: n
+
+# Created at 2020-01-18T14:51:35.885
+Unexpected IOException with stream: g
+
+# Created at 2020-01-18T14:51:35.892
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:35.899
+Unexpected IOException with stream: t
+
+# Created at 2020-01-18T14:51:35.907
+Unexpected IOException with stream: o
+
+# Created at 2020-01-18T14:51:35.914
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:35.921
+Unexpected IOException with stream: C
+
+# Created at 2020-01-18T14:51:35.930
+Unexpected IOException with stream: h
+
+# Created at 2020-01-18T14:51:35.938
+Unexpected IOException with stream: r
+
+# Created at 2020-01-18T14:51:35.946
+Unexpected IOException with stream: o
+
+# Created at 2020-01-18T14:51:35.954
+Unexpected IOException with stream: m
+
+# Created at 2020-01-18T14:51:35.967
+Unexpected IOException with stream: e
+
+# Created at 2020-01-18T14:51:35.990
+Unexpected IOException with stream: ,
+
+# Created at 2020-01-18T14:51:36.004
+Unexpected IOException with stream:  
+
+# Created at 2020-01-18T14:51:36.016
+Unexpected IOException with stream: r
+
+# Created at 2020-01-18T14:51:36.028
+Unexpected IOException with stream: e
+
+# Created at 2020-01-18T14:51:36.036
+Unexpected IOException with stream: t
+
+# Created at 2020-01-18T14:51:36.046
+Unexpected IOException with stream: r
+
+# Created at 2020-01-18T14:51:36.054
+Unexpected IOException with stream: y
+
+# Created at 2020-01-18T14:51:36.065
+Unexpected IOException with stream: i
+
+# Created at 2020-01-18T14:51:36.080
+Unexpected IOException with stream: n
+
+# Created at 2020-01-18T14:51:36.095
+Unexpected IOException with stream: g
+
+# Created at 2020-01-18T14:51:36.102
+Unexpected IOException with stream: .
+
+# Created at 2020-01-18T14:51:36.114
+Unexpected IOException with stream: .
+
+# Created at 2020-01-18T14:51:36.150
+Unexpected IOException with stream: .
+
+# Created at 2020-01-18T14:51:36.160
+Unexpected IOException with stream: 
+
+# Created at 2020-01-18T14:51:36.173
+Unexpected IOException with stream: 
+
+
+# Created at 2020-01-18T14:51:39.784
+Unexpected IOException: 8,1,tests.ChangeCurrencyTest,startDriver(tests.ChangeCurrencyTest),null,session not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=79.0.3945.117)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 8.77 seconds\000ABuild info: version: '3.13.0'\002C revision: '2f0d292'\002C time: '2018-06-25T15:24:21.231Z'\000ASystem info: host: 'DESKTOP-ANFB91A'\002C ip: '192.168.1.113'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_91'\000ADriver info: driver.version: ChromeDriver,null,session not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=79.0.3945.117)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 8.77 seconds\000ABuild info: version: '3.13.0'\002C revision: '2f0d292'\002C time: '2018-06-25T15:24:21.231Z'\000ASystem info: host: 'DESKTOP-ANFB91A'\002C ip: '192.168.1.113'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_91'\000ADriver info: driver.version: ChromeDriver,ChangeCurrencyTest>TestBase.startDriver:51 \00BB SessionNotCreated session not cre...,org.openqa.selenium.SessionNotCreatedException: \000Asession not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=79.0.3945.117)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.10240 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 8.77 seconds\000ABuild info: version: '3.13.0'\002C revision: '2f0d292'\002C time: '2018-06-25T15:24:21.231Z'\000ASystem info: host: 'DESKTOP-ANFB91A'\002C ip: '192.168.1.113'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_91'\000ADriver info: driver.version: ChromeDriver\000A
+
+
+# Created at 2020-01-18T14:51:40.345
+Unexpected IOException: 5,1,tests.UserRegistrationTest,userCanRegisterSucessfull(tests.UserRegistrationTest),tests.UserRegistrationTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.362
+Unexpected IOException: 9,1,tests.UserRegistrationTest,userCanRegisterSucessfull(tests.UserRegistrationTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.379
+Unexpected IOException: 9,1,tests.UserRegistrationTest,tearDown(tests.UserRegistrationTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.399
+Unexpected IOException: 9,1,tests.UserRegistrationTest,RegisterUserCanLogout(tests.UserRegistrationTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.416
+Unexpected IOException: 9,1,tests.UserRegistrationTest,RegisteredUserCanLogin(tests.UserRegistrationTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.433
+Unexpected IOException: 5,1,tests.AddProductReviewTest,UserCanRegisterSuccssfully(tests.AddProductReviewTest),tests.AddProductReviewTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.442
+Unexpected IOException: 9,1,tests.AddProductReviewTest,UserCanRegisterSuccssfully(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.457
+Unexpected IOException: 9,1,tests.AddProductReviewTest,tearDown(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.465
+Unexpected IOException: 5,1,tests.AddProductReviewTest,UserCanSearchWithAutoSuggest(tests.AddProductReviewTest),tests.AddProductReviewTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.474
+Unexpected IOException: 9,1,tests.AddProductReviewTest,UserCanSearchWithAutoSuggest(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.505
+Unexpected IOException: 9,1,tests.AddProductReviewTest,tearDown(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.513
+Unexpected IOException: 5,1,tests.AddProductReviewTest,RegisteredUserCanReviewProduct(tests.AddProductReviewTest),tests.AddProductReviewTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.523
+Unexpected IOException: 9,1,tests.AddProductReviewTest,RegisteredUserCanReviewProduct(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.537
+Unexpected IOException: 9,1,tests.AddProductReviewTest,tearDown(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.545
+Unexpected IOException: 5,1,tests.AddProductReviewTest,RegisteredUserCanLogout(tests.AddProductReviewTest),tests.AddProductReviewTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.558
+Unexpected IOException: 9,1,tests.AddProductReviewTest,RegisteredUserCanLogout(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.572
+Unexpected IOException: 9,1,tests.AddProductReviewTest,tearDown(tests.AddProductReviewTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.580
+Unexpected IOException: 5,1,tests.AddProductToCompareListTest,UserCanCompareProducts(tests.AddProductToCompareListTest),tests.AddProductToCompareListTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.590
+Unexpected IOException: 9,1,tests.AddProductToCompareListTest,UserCanCompareProducts(tests.AddProductToCompareListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.604
+Unexpected IOException: 9,1,tests.AddProductToCompareListTest,tearDown(tests.AddProductToCompareListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.612
+Unexpected IOException: 5,1,tests.AddProductToCompareListTest,UserCanClearCompareList(tests.AddProductToCompareListTest),tests.AddProductToCompareListTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.621
+Unexpected IOException: 9,1,tests.AddProductToCompareListTest,UserCanClearCompareList(tests.AddProductToCompareListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.636
+Unexpected IOException: 9,1,tests.AddProductToCompareListTest,tearDown(tests.AddProductToCompareListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.644
+Unexpected IOException: 5,1,tests.AddProductToShoppingCartTest,UserCanSearchForProductsWithAutoSuggest(tests.AddProductToShoppingCartTest),tests.AddProductToShoppingCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.654
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,UserCanSearchForProductsWithAutoSuggest(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.669
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,tearDown(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.678
+Unexpected IOException: 5,1,tests.AddProductToShoppingCartTest,UserCanAddProductToShoppingCart(tests.AddProductToShoppingCartTest),tests.AddProductToShoppingCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.687
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,UserCanAddProductToShoppingCart(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.728
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,tearDown(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.736
+Unexpected IOException: 5,1,tests.AddProductToShoppingCartTest,UserCanRemoveProductFromCart(tests.AddProductToShoppingCartTest),tests.AddProductToShoppingCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.745
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,UserCanRemoveProductFromCart(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.761
+Unexpected IOException: 9,1,tests.AddProductToShoppingCartTest,tearDown(tests.AddProductToShoppingCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.770
+Unexpected IOException: 5,1,tests.AddProductToWishListTest,UserCanSearchForProductsWithAutoSuggest(tests.AddProductToWishListTest),tests.AddProductToWishListTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.780
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,UserCanSearchForProductsWithAutoSuggest(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.795
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,tearDown(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.803
+Unexpected IOException: 5,1,tests.AddProductToWishListTest,UserCanAddProductToWishlist(tests.AddProductToWishListTest),tests.AddProductToWishListTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.813
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,UserCanAddProductToWishlist(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.829
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,tearDown(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.837
+Unexpected IOException: 5,1,tests.AddProductToWishListTest,UserCanRemoveProductFromCart(tests.AddProductToWishListTest),tests.AddProductToWishListTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.847
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,UserCanRemoveProductFromCart(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.871
+Unexpected IOException: 9,1,tests.AddProductToWishListTest,tearDown(tests.AddProductToWishListTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.880
+Unexpected IOException: 5,1,tests.ChangeCurrencyTest,userCanChangeCurrency(tests.ChangeCurrencyTest),tests.ChangeCurrencyTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.891
+Unexpected IOException: 9,1,tests.ChangeCurrencyTest,userCanChangeCurrency(tests.ChangeCurrencyTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.913
+Unexpected IOException: 9,1,tests.ChangeCurrencyTest,tearDown(tests.ChangeCurrencyTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.921
+Unexpected IOException: 5,1,tests.ChangeCurrencyTest,userCanSearchWithAutoSuggest(tests.ChangeCurrencyTest),tests.ChangeCurrencyTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.932
+Unexpected IOException: 9,1,tests.ChangeCurrencyTest,userCanSearchWithAutoSuggest(tests.ChangeCurrencyTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.961
+Unexpected IOException: 9,1,tests.ChangeCurrencyTest,tearDown(tests.ChangeCurrencyTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:40.970
+Unexpected IOException: 5,1,tests.ContactUsTest,UserCanUseContactUs(tests.ContactUsTest),tests.ContactUsTest,null,null
+
+
+# Created at 2020-01-18T14:51:40.982
+Unexpected IOException: 9,1,tests.ContactUsTest,UserCanUseContactUs(tests.ContactUsTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.001
+Unexpected IOException: 9,1,tests.ContactUsTest,tearDown(tests.ContactUsTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.011
+Unexpected IOException: 5,1,tests.EmailFriend,userCanRegisterSucessfull(tests.EmailFriend),tests.EmailFriend,null,null
+
+
+# Created at 2020-01-18T14:51:41.025
+Unexpected IOException: 9,1,tests.EmailFriend,userCanRegisterSucessfull(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.046
+Unexpected IOException: 9,1,tests.EmailFriend,tearDown(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.055
+Unexpected IOException: 5,1,tests.EmailFriend,userCanSearchWithAutoSuggest(tests.EmailFriend),tests.EmailFriend,null,null
+
+
+# Created at 2020-01-18T14:51:41.065
+Unexpected IOException: 9,1,tests.EmailFriend,userCanSearchWithAutoSuggest(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.079
+Unexpected IOException: 9,1,tests.EmailFriend,tearDown(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.087
+Unexpected IOException: 5,1,tests.EmailFriend,registeredUserCanSendProductToFriend(tests.EmailFriend),tests.EmailFriend,null,null
+
+
+# Created at 2020-01-18T14:51:41.097
+Unexpected IOException: 9,1,tests.EmailFriend,registeredUserCanSendProductToFriend(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.112
+Unexpected IOException: 9,1,tests.EmailFriend,tearDown(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.121
+Unexpected IOException: 5,1,tests.EmailFriend,RegisterUserCanLogout(tests.EmailFriend),tests.EmailFriend,null,null
+
+
+# Created at 2020-01-18T14:51:41.131
+Unexpected IOException: 9,1,tests.EmailFriend,RegisterUserCanLogout(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.168
+Unexpected IOException: 9,1,tests.EmailFriend,tearDown(tests.EmailFriend),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.177
+Unexpected IOException: 5,1,tests.GuestCheckoutProductFromCartTest,UserCanSearchForProductsWithAutoSuggest(tests.GuestCheckoutProductFromCartTest),tests.GuestCheckoutProductFromCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.188
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,UserCanSearchForProductsWithAutoSuggest(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.204
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,tearDown(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.214
+Unexpected IOException: 5,1,tests.GuestCheckoutProductFromCartTest,UserCanAddProductToShoppingCart(tests.GuestCheckoutProductFromCartTest),tests.GuestCheckoutProductFromCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.224
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,UserCanAddProductToShoppingCart(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.240
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,tearDown(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.250
+Unexpected IOException: 5,1,tests.GuestCheckoutProductFromCartTest,UserCanCheckoutProduct(tests.GuestCheckoutProductFromCartTest),tests.GuestCheckoutProductFromCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.260
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,UserCanCheckoutProduct(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.277
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,tearDown(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.285
+Unexpected IOException: 5,1,tests.GuestCheckoutProductFromCartTest,UserCanViewOrderDetails(tests.GuestCheckoutProductFromCartTest),tests.GuestCheckoutProductFromCartTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.296
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,UserCanViewOrderDetails(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.312
+Unexpected IOException: 9,1,tests.GuestCheckoutProductFromCartTest,tearDown(tests.GuestCheckoutProductFromCartTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.321
+Unexpected IOException: 5,1,tests.MyAccountTest,userCanRegisterSucessfull(tests.MyAccountTest),tests.MyAccountTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.332
+Unexpected IOException: 9,1,tests.MyAccountTest,userCanRegisterSucessfull(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.347
+Unexpected IOException: 9,1,tests.MyAccountTest,tearDown(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.356
+Unexpected IOException: 5,1,tests.MyAccountTest,RegisteredUserCanChangePassword(tests.MyAccountTest),tests.MyAccountTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.365
+Unexpected IOException: 9,1,tests.MyAccountTest,RegisteredUserCanChangePassword(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.383
+Unexpected IOException: 9,1,tests.MyAccountTest,tearDown(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.393
+Unexpected IOException: 5,1,tests.MyAccountTest,RegisterUserCanLogout(tests.MyAccountTest),tests.MyAccountTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.403
+Unexpected IOException: 9,1,tests.MyAccountTest,RegisterUserCanLogout(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.419
+Unexpected IOException: 9,1,tests.MyAccountTest,tearDown(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.428
+Unexpected IOException: 5,1,tests.MyAccountTest,RegisteredUserCanLogin(tests.MyAccountTest),tests.MyAccountTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.437
+Unexpected IOException: 9,1,tests.MyAccountTest,RegisteredUserCanLogin(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.454
+Unexpected IOException: 9,1,tests.MyAccountTest,tearDown(tests.MyAccountTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.463
+Unexpected IOException: 5,1,tests.ProductHoverMenuTest,userCanSelectSubCategoryFromMainMenu(tests.ProductHoverMenuTest),tests.ProductHoverMenuTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.473
+Unexpected IOException: 9,1,tests.ProductHoverMenuTest,userCanSelectSubCategoryFromMainMenu(tests.ProductHoverMenuTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.488
+Unexpected IOException: 9,1,tests.ProductHoverMenuTest,tearDown(tests.ProductHoverMenuTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.496
+Unexpected IOException: 5,1,tests.RegisteredUserCheckoutProductTest,UserCanRegisterSuccssfully(tests.RegisteredUserCheckoutProductTest),tests.RegisteredUserCheckoutProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.506
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,UserCanRegisterSuccssfully(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.520
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,tearDown(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.529
+Unexpected IOException: 5,1,tests.RegisteredUserCheckoutProductTest,UserCanSearchWithAutoSuggest(tests.RegisteredUserCheckoutProductTest),tests.RegisteredUserCheckoutProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.538
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,UserCanSearchWithAutoSuggest(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.553
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,tearDown(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.562
+Unexpected IOException: 5,1,tests.RegisteredUserCheckoutProductTest,UserCanAddProductToShoppingCart(tests.RegisteredUserCheckoutProductTest),tests.RegisteredUserCheckoutProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.571
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,UserCanAddProductToShoppingCart(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.587
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,tearDown(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.596
+Unexpected IOException: 5,1,tests.RegisteredUserCheckoutProductTest,UserCanCheckoutProduct(tests.RegisteredUserCheckoutProductTest),tests.RegisteredUserCheckoutProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.604
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,UserCanCheckoutProduct(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.619
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,tearDown(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.628
+Unexpected IOException: 5,1,tests.RegisteredUserCheckoutProductTest,RegisteredUserCanLogout(tests.RegisteredUserCheckoutProductTest),tests.RegisteredUserCheckoutProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.637
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,RegisteredUserCanLogout(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.652
+Unexpected IOException: 9,1,tests.RegisteredUserCheckoutProductTest,tearDown(tests.RegisteredUserCheckoutProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.661
+Unexpected IOException: 5,1,tests.SearchProductAutoComplete,userCanSearchWithAutoSuggest(tests.SearchProductAutoComplete),tests.SearchProductAutoComplete,null,null
+
+
+# Created at 2020-01-18T14:51:41.670
+Unexpected IOException: 9,1,tests.SearchProductAutoComplete,userCanSearchWithAutoSuggest(tests.SearchProductAutoComplete),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.686
+Unexpected IOException: 9,1,tests.SearchProductAutoComplete,tearDown(tests.SearchProductAutoComplete),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.694
+Unexpected IOException: 5,1,tests.SearchProductTest,userCanSearchForProducts(tests.SearchProductTest),tests.SearchProductTest,null,null
+
+
+# Created at 2020-01-18T14:51:41.703
+Unexpected IOException: 9,1,tests.SearchProductTest,userCanSearchForProducts(tests.SearchProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:41.719
+Unexpected IOException: 9,1,tests.SearchProductTest,tearDown(tests.SearchProductTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:42.003
+Unexpected IOException: 9,1,tests.ChangeCurrencyTest,stopDriver(tests.ChangeCurrencyTest),null,null,null
+
+
+# Created at 2020-01-18T14:51:42.949
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

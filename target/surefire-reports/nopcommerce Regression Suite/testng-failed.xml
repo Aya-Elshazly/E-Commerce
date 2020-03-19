@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [nopcommerce Regression Suite]">
-  <parameter name="browser" value="chrome"/>
-  <test thread-count="5" verbose="0" name="Regression Test(failed)">
+<suite verbose="0" name="Failed suite [nopcommerce Regression Suite]">
+  <parameter name="browser" value="chrome-headless"/>
+  <test name="Regression Test(failed)">
     <classes>
-      <class name="tests.UserRegistrationTest">
+      <class name="tests.SearchProductAutoComplete">
         <methods>
           <include name="startDriver"/>
           <include name="stopDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.SearchProductAutoComplete -->
+      <class name="tests.UserRegistrationTest">
+        <methods>
           <include name="userCanRegisterSucessfull"/>
           <include name="RegisterUserCanLogout"/>
           <include name="RegisteredUserCanLogin"/>
